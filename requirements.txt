@@ -4,5 +4,4 @@ numpy
 plotly
 torch
 logging
-transformer
 matplotlib
